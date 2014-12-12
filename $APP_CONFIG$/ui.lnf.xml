@@ -4,5 +4,7 @@
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="872" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="17" />
   </component>
 </application>

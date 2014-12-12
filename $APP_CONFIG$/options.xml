@@ -26,5 +26,9 @@
     <property name="junit_statistics_table_columnsWidth5" value="75" />
     <property name="junit_statistics_table_columnsOrder5" value="5" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="BYTE_CODE_TOOL_WINDOW" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
   </component>
 </application>
