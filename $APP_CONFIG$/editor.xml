@@ -5,6 +5,9 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="SHOW_REFORMAT_DIALOG" value="false" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="breadcrumbsEnabledInXml" value="true" />
     <option name="showCssInlineColorPreview" value="true" />
