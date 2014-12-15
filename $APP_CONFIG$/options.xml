@@ -30,5 +30,6 @@
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
   </component>
 </application>
