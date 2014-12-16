@@ -1,6 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/Users/jason/.m2/repository" />
+    <macro name="IDEA_SDK_NAME" value="IDEAC-14" />
     <macro name="KOTLIN_BUNDLED" value="/Users/jason/Library/Application Support/IdeaIC14-SNAPSHOT/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/jason/.m2/repository" />
   </component>
 </application>
