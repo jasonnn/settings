@@ -107,9 +107,25 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="BNF_META_RULE_PARAM">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="BNF_NUMBER">
       <value>
         <option name="FOREGROUND" value="6897bb" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BNF_PIN">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="BNF_RECOVER_MARKER">
+      <value>
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -478,6 +494,13 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="Clojure Atom">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -829,6 +852,12 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="HASKELL_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="6e6e" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="bababa" />
@@ -1157,6 +1186,18 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
         <option name="EFFECT_TYPE" value="0" />
@@ -1302,6 +1343,12 @@
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="c0d0f0" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>

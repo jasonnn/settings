@@ -7,9 +7,6 @@
             <id />
           </State>
           <State>
-            <id>Android Lint</id>
-          </State>
-          <State>
             <id>Spelling</id>
           </State>
         </expanded-state>
