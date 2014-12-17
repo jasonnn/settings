@@ -4,6 +4,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun.glass" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org" />
     <EXCLUDED_PACKAGE NAME="com.sun.prism" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.jdi.JDWP" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml" />
