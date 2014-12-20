@@ -5,5 +5,7 @@
     <toolWindow group="notification.group.id.gradle" />
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="HotSwap" />
+    <toolWindow group="Debugger messages" />
   </component>
 </application>
