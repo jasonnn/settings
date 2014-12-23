@@ -1,21 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="com.sun.glass" />
-    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
-    <EXCLUDED_PACKAGE NAME="com.sun.org" />
-    <EXCLUDED_PACKAGE NAME="com.sun.prism" />
-    <EXCLUDED_PACKAGE NAME="com.sun.tools.jdi.JDWP" />
-    <EXCLUDED_PACKAGE NAME="com.sun.xml" />
-    <EXCLUDED_PACKAGE NAME="java.sql" />
-    <EXCLUDED_PACKAGE NAME="javax.xml.soap" />
-    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase.assertNotNull" />
-    <EXCLUDED_PACKAGE NAME="org.omg" />
-    <EXCLUDED_PACKAGE NAME="org.w3c" />
-    <EXCLUDED_PACKAGE NAME="sun.plugin" />
-    <EXCLUDED_PACKAGE NAME="sun.util.calendar" />
-  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
