@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'antlr-plugin'" />
-    <option name="defaultScopeName" value="Project 'antlr-plugin'" />
-    <option name="SEARCH_SCOPE" value="Project 'antlr-plugin'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
