@@ -2,6 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack.internal" />
+    <EXCLUDED_PACKAGE NAME="org.antlr.v4.runtime.misc.NotNull" />
+    <EXCLUDED_PACKAGE NAME="org.antlr.v4.runtime.misc.Nullable" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
