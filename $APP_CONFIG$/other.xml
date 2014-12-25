@@ -105,9 +105,6 @@
   <component name="SvnApplicationSettings">
     <option name="mySvnCommandLine" value="/usr/local/bin/svn" />
   </component>
-  <component name="TemplateSettings">
-    <defaultShortcut shortcut="TAB" />
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
