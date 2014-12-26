@@ -2,7 +2,7 @@
   <component name="PathMacrosImpl">
     <macro name="IDEA_HOME" value="/Applications/IntelliJ IDEA 14 CE.app/Contents" />
     <macro name="IDEA_SDK_NAME" value="IDEAC14" />
-    <macro name="KOTLIN_BUNDLED" value="/Users/jason/Library/Application Support/IdeaIC14-SNAPSHOT/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/jason/Library/Application Support/IdeaIC14/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/jason/.m2/repository" />
   </component>
 </application>
