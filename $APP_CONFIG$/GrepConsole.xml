@@ -42,6 +42,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="id" value="25a1d416-414f-45f2-9c22-8c2eb6d0dcb2" />
                         </GrepStyle>
                       </option>
@@ -54,6 +59,11 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
