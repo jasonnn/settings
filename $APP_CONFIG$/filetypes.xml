@@ -1,5 +1,5 @@
 <application>
-  <component name="CommunityFileTypes" version="11">
+  <component name="CommunityFileTypes" version="12">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.orig;" />
     <extensionMap>
       <mapping ext="tagx" type="XML" />
