@@ -2,7 +2,7 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
+        <option name="DEFAULT_COMPILER" value="Javac" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -20,6 +20,9 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="PARALLEL_COMPILATION" value="true" />
+      </component>
       <component name="CopyrightManager" default="" />
       <component name="DaemonCodeAnalyzer">
         <disable_hints />
@@ -28,12 +31,69 @@
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
       <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+      <component name="GantSettings">
+        <option name="SDK_HOME" value="/usr/local/opt/gant/libexec" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/Downloads/RichTextFX-master" value="5660834720000" />
           </map>
         </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profiles>
+          <profile version="1.0" is_locked="false">
+            <option name="myName" value="Project Default" />
+            <option name="myLocal" value="false" />
+            <inspection_tool class="AndroidLintTypos" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+              <option name="processCode" value="true" />
+              <option name="processLiterals" value="true" />
+              <option name="processComments" value="true" />
+            </inspection_tool>
+          </profile>
+        </profiles>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="KotlinCompilerWorkspaceSettings">
+        <option name="incrementalCompilationEnabled" value="true" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="createModuleGroups" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="jason" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android Lint</id>
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SpellCheckingInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -51,7 +111,7 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="options.lastSelected" value="project.propCompiler" />
+        <property name="options.lastSelected" value="terminal" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
       </component>
@@ -167,6 +227,17 @@
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
