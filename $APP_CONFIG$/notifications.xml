@@ -6,5 +6,6 @@
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Inspection Results" />
     <toolWindow group="Debugger messages" />
+    <toolWindow group="HotSwap" />
   </component>
 </application>
