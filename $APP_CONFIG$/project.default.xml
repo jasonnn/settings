@@ -2,7 +2,7 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" value="Javac" />
+        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -40,23 +40,6 @@
             <entry key="$USER_HOME$/Downloads/RichTextFX-master" value="5660834720000" />
           </map>
         </option>
-      </component>
-      <component name="InspectionProjectProfileManager">
-        <profiles>
-          <profile version="1.0" is_locked="false">
-            <option name="myName" value="Project Default" />
-            <option name="myLocal" value="false" />
-            <inspection_tool class="AndroidLintTypos" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
-              <option name="processCode" value="true" />
-              <option name="processLiterals" value="true" />
-              <option name="processComments" value="true" />
-            </inspection_tool>
-          </profile>
-        </profiles>
-        <option name="PROJECT_PROFILE" value="Project Default" />
-        <option name="USE_PROJECT_PROFILE" value="true" />
-        <version value="1.0" />
       </component>
       <component name="KotlinCompilerWorkspaceSettings">
         <option name="incrementalCompilationEnabled" value="true" />
