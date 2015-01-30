@@ -155,13 +155,6 @@
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
-      </map>
-    </option>
-  </component>
   <component name="JavaFxSettings">
     <option name="pathToSceneBuilder" value="$USER_HOME$/Desktop/misc/JavaFX Scene Builder 2.0.app" />
     <option name="myPathToSceneBuilder" value="$USER_HOME$/Desktop/misc/JavaFX Scene Builder 2.0.app" />
