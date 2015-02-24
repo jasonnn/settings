@@ -52,12 +52,6 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
-    <option name="BNF_PIN">
-      <value>
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="b06110" />
