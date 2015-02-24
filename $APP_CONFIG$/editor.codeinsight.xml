@@ -7,6 +7,7 @@
     <EXCLUDED_PACKAGE NAME="com.oracle.graal.nodeinfo.NodeInfo" />
     <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar.pack" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache" />
+    <EXCLUDED_PACKAGE NAME="groovyjarjarantlr.TokenStream" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
   </component>
