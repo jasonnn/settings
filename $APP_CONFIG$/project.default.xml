@@ -38,6 +38,11 @@
         <option name="incrementalCompilationEnabled" value="true" />
       </component>
       <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
         <option name="importingSettings">
           <MavenImportingSettings>
             <option name="createModuleGroups" value="true" />
