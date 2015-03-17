@@ -144,18 +144,6 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
-    <ignored-resource url="http://exslt.org/math" />
-    <ignored-resource url="http://exslt.org/dynamic" />
-    <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
-    <ignored-resource url="http://exslt.org/sets" />
-    <ignored-resource url="http://www.w3.org/2000/svg" />
-  </component>
   <component name="JavaFxSettings">
     <option name="pathToSceneBuilder" value="$USER_HOME$/Desktop/misc/JavaFX Scene Builder 2.0.app" />
     <option name="myPathToSceneBuilder" value="$USER_HOME$/Desktop/misc/JavaFX Scene Builder 2.0.app" />
@@ -176,9 +164,6 @@
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FIELD" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
-  <component name="Registry">
-    <entry key="ide.firstStartup" value="false" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="mySvnCommandLine" value="/usr/local/bin/svn" />
