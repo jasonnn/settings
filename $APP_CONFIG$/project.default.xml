@@ -31,6 +31,7 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/Downloads/RichTextFX-master" value="5660834720000" />
+            <entry key="$USER_HOME$/repos/groovy/incubator-groovy" value="27245868615000" />
           </map>
         </option>
       </component>
@@ -190,6 +191,9 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />

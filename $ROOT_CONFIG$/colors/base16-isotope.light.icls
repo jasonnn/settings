@@ -1,4 +1,4 @@
-<scheme name="Base16-Isotope-Light" version="124" parent_scheme="Default">
+<scheme name="Base16-Isotope-Light" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -366,13 +366,6 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ERRORS_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -470,47 +463,6 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="66ff" />
-      </value>
-    </option>
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-      <value>
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-      <value>
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="4a86e8" />
-      </value>
-    </option>
-    <option name="KOTLIN_MUTABLE_VARIABLE">
-      <value>
-        <option name="EFFECT_COLOR" value="0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value>
-        <option name="BACKGROUND" value="f5d7ef" />
-      </value>
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value>
-        <option name="BACKGROUND" value="dbffdb" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
@@ -659,7 +611,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3300ff" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
